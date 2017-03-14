@@ -1,0 +1,15 @@
+This question: {{question.content}} <br>
+has been asked by {{question.author}} on {{question.date}}.<br>
+{{question.author}} has left the following additional information:<br>
+{{question.note}}.
+<br>
+<br>
+
+<h4>Answers</h4>
+<ul>
+  {{#each question.answers as |answer|}}
+   {{answer-tile answer=answer destroyAnswer="destroyAnswer"}}
+  {{/each}}
+</ul>
+
+<button {{action 'delete' question}}>Delete this question</button>

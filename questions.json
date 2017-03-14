@@ -1,0 +1,32 @@
+{ "questions": [{
+    "content": "What is a superdelegate?",
+    "author": "Floris",
+    "date": "2016-10-20",
+    "note": "US elections"
+  }, {
+    "content": "What is Citizens United?",
+    "author": "Kevin",
+    "date": "2016-10-22",
+    "note": "US elections"
+  }, {
+    "content": "What is the European Union?",
+    "author": "Brian",
+    "date": "2016-07-14",
+    "note": "Brexit"
+  }, {
+    "content": "What is the mannequin challenge?",
+    "author": "Alexandra",
+    "date": "2016-05-12",
+    "note": "Internet"
+  }, {
+    "content": "What is Aleppo?",
+    "author": "Ken",
+    "date": "2017-01-23",
+    "note": "War"
+  }, {
+    "content": "What is Pokémon Go?",
+    "author": "Julie",
+    "date": "2016-06-03",
+    "note": "Entertainment"
+  }]
+}

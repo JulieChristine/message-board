@@ -1,0 +1,9 @@
+<h2>More information about: {{question.content}} {{question.author}}:</h2>
+
+{{update-question question=model update="update"}}
+<br>
+
+{{question-detail question=model destroyQuestion="destroyQuestion" destroyAnswer="destroyAnswer"}}
+<br>
+
+{{new-answer saveAnswer="saveAnswer" question=model}}

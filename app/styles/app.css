@@ -1,0 +1,58 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-family: Playfair Display,serif;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+header {
+  text-align: center;
+  line-height: 1.1em;
+  text-transform: none;
+  text-decoration: none;
+}
+
+.jumbotron {
+  background-color: #fc0;
+  margin-bottom: 30px;
+}
+
+.container-fluid {
+  background-color: rgba(160, 215, 213, 0.2);
+}
+
+div {
+  display: block;
+}
+
+.board {
+  margin-left: 60px;
+}
+
+nav{
+  margin-left: 30px;
+}
+
+h3, h2, h4 {
+  border-bottom-color: 2px solid;
+  color: #27ffbc;
+}
+
+
+body {
+  font-family: Georgia,Times New Roman,serif;
+}
+
+button {
+  background-color: rgb(255, 65, 121);
+  font-family: Brown Bold,sans-serif;
+  text-transform: uppercase;
+  color: white;
+  border: none;
+}
